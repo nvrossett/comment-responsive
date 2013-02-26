@@ -1,7 +1,7 @@
 Comment Responsive
 ==================
 
-Plugin para trabalhar com Mobile First e carregamento assincrono de elementos via javascript.
+Plugin para trabalhar com Mobile First e carregamento assincrono de elementos via javascript diretamente no HTML.
 
 
 Como funciona
