@@ -1,0 +1,33 @@
+/* CSS Document */
+
+body {
+	
+}
+ 
+#logo {
+	width: 250px;	
+}
+ 
+#menu li {
+	float: left;
+	list-style: none;
+}
+
+#content {
+	clear: both;
+}
+
+#menu li a {
+	display: block;
+	padding: 5px;
+	margin: 1px;
+}
+
+p {
+	color: #000;	
+}
+
+
+*[data-mobilefirst] {
+	display: none;	
+}
